@@ -1,11 +1,3 @@
-/** RoundRobinSchedulingAlgorithm.java
- * 
- * A scheduling algorithm that randomly picks the next job to go.
- *
- * @author: Kyle Benson
- * Winter 2013
- *
- */
 package com.jimweller.cpuscheduler;
 
 import java.util.*;
