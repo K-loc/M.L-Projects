@@ -1,2 +1,2 @@
 # M.L-Tests
-Testing code for my machine learning projects and web-crawling projects
+Source code for my machine learning, artificial intelligence, and other project tests
