@@ -1,11 +1,3 @@
-/** PrioritySchedulingAlgorithm.java
- * 
- * A single-queue priority scheduling algorithm.
- *
- * @author: Charles Zhu
- * Spring 2016
- *
- */
 package com.jimweller.cpuscheduler;
 
 import java.util.*;
